@@ -24,3 +24,4 @@ print(sonucMesaj)
 sayi1 = 15
 sayi2 = 25
 print(sayi1+sayi2)
+sayi3 = 20
