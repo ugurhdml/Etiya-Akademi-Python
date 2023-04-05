@@ -1,2 +1,2 @@
 # Etiya-Akademi-Python
-Etiya Akademi bünyesinde aldığım eğitim dökümanlarını ve yaptığım ödevleri paylaştığım bir repodur .
+It is a repo that I share course documents and assignments given by etiya academy.
