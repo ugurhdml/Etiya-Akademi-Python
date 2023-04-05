@@ -1,7 +1,7 @@
 print("Hello Etiya!")
 print("Welcome!")
 
-#this is a comment line!
+#this is a comment line !
 
 #Variables--->start
 
