@@ -1,2 +1,2 @@
 # Etiya-Akademi-Python
-Etiya Akademi-6
+Etiya Akademi bünyesinde aldığım eğitim dökümanlarını ve yaptığım ödevleri paylaştığım bir repodur.
