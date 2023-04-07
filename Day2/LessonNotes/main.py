@@ -4,7 +4,6 @@ sayilar = [100,200,300,400,500, "merhaba", 15.5, True] # Liste elemanlarının v
 #index 0 dan başlar!!  son eleman -1 ile çağrılabilir.
 print(sayilar[0])
 print(sayilar[5])
-
 print(sayilar)
 sayilar.append(600) # --> listenin sonuna eleman ekler!
 print(sayilar)

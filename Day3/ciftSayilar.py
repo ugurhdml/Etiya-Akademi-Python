@@ -10,3 +10,4 @@ elif secim ==2:
         print(i)
 else:
     print("Geçersiz sayı girdiniz...")
+    
