@@ -1,7 +1,7 @@
 sayi = 0
 tempSayi =0
 
-while sayi <=1:
+while sayi <1:
     sayi = int(input("Bir sayı giriniz : "))
     if sayi < 1: 
         print("Geçersiz Sayı girdiniz. Tekrar giriş yapınız.")
