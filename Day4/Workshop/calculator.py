@@ -34,7 +34,7 @@ while cikisKodu==0:
 
     elif secim == '+':
         toplama()
-        
+            
     elif secim == '-':
         cikarma()
         
