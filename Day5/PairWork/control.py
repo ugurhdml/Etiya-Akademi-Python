@@ -17,11 +17,11 @@ def showStudentList():
     print(f"Öğrenciler  : {studentList}")
 
 
-teacher1 = Teacher("Halit",25)
-teacher2 = Teacher("Enes",25)
+teacher1 = Teacher("Halit","Python",25)
+teacher2 = Teacher("Engin","Java",37)
 
-student1 = Student("Zeynep",28)
-student2 = Student("Uğur ",24)
+student1 = Student("Zeynep",28,674)
+student2 = Student("Uğur ",24,1070)
 addTeacher(teacher1)
 addTeacher(teacher2)
 

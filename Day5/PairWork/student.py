@@ -8,12 +8,14 @@
 class Student:
     name = ""
     age = 0
-    def __init__(self,name,age):
+    number = 0
+    def __init__(self,name,age,number):
         self.name = name
         self.age = age
+        self.number = number
         
     def __repr__(self): 
-        return f"{self.name} {self.age}" 
+        return f"İsim:{self.name} Yaş :{self.age} Okul no: {self.number}" 
         
     
     
