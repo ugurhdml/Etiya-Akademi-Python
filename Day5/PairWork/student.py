@@ -14,9 +14,11 @@ class Student:
         self.age = age
         self.number = number
         
-    def __repr__(self): 
-        return f"İsim: {self.name} Yaş :{self.age} Okul no: {self.number}" 
         
+    
+    
+    
+       
     
     
     

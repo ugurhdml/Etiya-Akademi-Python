@@ -23,14 +23,13 @@ def modAlma():
     sayi2=int(input("Mod alma işlemi için ikinci sayıyı giriniz : "))
     print(sayi1,"%",sayi2,"=", sayi1%sayi2)
 
-cikisKodu = 0
 
-while cikisKodu==0:
+while True:
     secim=input("Yapmak istediğiniz işlemi giriniz: + --> Toplama  - --> Çıkarma  * --> Çarpma  / --> Bölme  % --> Mod Alma : ")
     
     if secim == "q":
         print("Programdan çıkılıyor...")
-        cikisKodu=1
+        break
 
     elif secim == '+':
         toplama()
